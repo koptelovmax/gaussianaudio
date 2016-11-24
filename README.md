@@ -6,5 +6,8 @@ http://liacs.leidenuniv.nl/~bakkerem2/api/
 Python library for audio processing:
 https://github.com/jiaaro/pydub/
 
+Gaussian process library:
+https://sheffieldml.github.io/GPy/
+
 All the audiosamples are taken from here:
 https://www.audiolabs-erlangen.de/resources/MIR/2016-ISMIR-EMLoop

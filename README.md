@@ -4,8 +4,10 @@ This is a repository for Audio Processing and Indexing cource project of Leiden 
 http://liacs.leidenuniv.nl/~bakkerem2/api/
 
 ### Repository content:
-- **GPAM-TD.ipynb** - Gaussian Process Audio Model in time domain (does not work properly)
-- **GPAM-FD.ipynb** - Gaussian Process Audio Model in frequency domain (instructions are included in the Python file, open it with Jupyter)
+- GPAM-FD.ipynb - Gaussian Process Audio Model in frequency domain (instructions are included in the Python file, open it with Jupyter)
+- GPAM-TD.ipynb - Gaussian Process Audio Model in time domain (does not work properly)
+- piano.wav - sample used for experiments
+- /Examples - examples of successful synthesis
 
 ### Used in this project:
 Jupyter notebook:
